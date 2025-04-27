@@ -1,7 +1,7 @@
 module.exports.config = {
 	name: "ss",
     version: "1.0.1",
-    hasPermission: 2,
+    hasPermission: 0,
     credits: "nazrul",
     description: "ask any thing",
     commandCategory: "admin",

@@ -1,7 +1,7 @@
 module.exports.config = {
 	name: "setprefix",
 	version: "0.0.2",
-  hasPermission: 2,
+  hasPermission: 0,
 	credits: "nayan",
 	description: "Change prefix",
 	commandCategory: "admin",

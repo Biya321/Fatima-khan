@@ -1,5 +1,5 @@
 module.exports.config = {
-	name: "ping",
+	name: "AM",
 	version: "1.0.4",
 	hasPermssion: 0,
 	credits: "𝐈𝐬𝐥𝐚𝐦𝐢𝐜𝐤 𝐂𝐲𝐛𝐞𝐫",
